@@ -1,5 +1,5 @@
 # Twitter Scraper (推特爬虫)
-This is a twtter scraper that can scrape a twitter account's post.
+This is a twitter scraper that can scrape a twitter account's post.
 ## How to use
 **1. Install requirements<br>**
 ```python
